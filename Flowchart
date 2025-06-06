@@ -1,0 +1,10 @@
+For detailed understanding of all the powerBI stuff, we need an extensive study, so lets note down what u might be using more often in your day to day life.
+
+Initially we start from import the data from the available dataset and its type, and have a look at how the data is actually looking.
+Mostly we might get a good cleaned dataset but in rare cases the data available may not fit our requirements, so we need to modify the data according to our requirments.
+1:So we use POWER QUERY to tranform the data, even at times when building differernt visualization, if we need any changes we use TRANFORM DATA from the ribbon and make the changes as required.
+2: If we have multiple sheets, create the relationships btween the different sheets for them to properly align with our data for accurate visuals.
+3: We use DAX EXPRESSIONS, to create any functions or make any chances on the data, like tranforming the data, or performing any aggregated funtions, we use these a lot.
+4: We use DRILL DOWN, for indetailed or next level of data explaination. If we need to understand one or more deeper layer of the data we use drilldowns(states->cities->locations).
+5: We perform CONDITIONAL FORMATTING, which includes performing some visual improvments on the data we have and create a better visualization.
+5: BINS AND LISTS are used to group a bunch of data into a sets of data, with lists we can create an range based groups and with bins we can create data divided by no of bins etc.
